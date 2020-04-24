@@ -96,6 +96,8 @@ Generally, the datasets which contains both semantic and instance annotations ca
 ### CVPR2020
 * **BANet:** Yifeng Chen, Guangchen Lin, Songyuan Li, Bourahla Omar, Yiming Wu, Fangfang Wang, Junyi Feng, Mingliang Xu, Xi Li.<br />"BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation." CVPR (2020). [[paper](https://arxiv.org/pdf/2003.14031.pdf)]
 
+* **BGRNet:** Yangxin Wu, Gengwei Zhang, Yiming Gao, Xiajun Deng, Ke Gong, Xiaodan Liang, Liang Lin.<br />"Bidirectional Graph Reasoning Network for Panoptic Segmentation." CVPR (2020). [[paper](https://arxiv.org/pdf/2004.06272.pdf)]
+
 ### ICCV2019
 * **AdaptIS:** Konstantin Sofiiuk, Olga Barinova, Anton Konushin.<br />"AdaptIS: Adaptive Instance Selection Network." ICCV (2019). [[paper](https://arxiv.org/pdf/1909.07829.pdf)]
 
