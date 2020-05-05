@@ -123,6 +123,10 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 * **Seamless:** Lorenzo Porzi, Samuel Rota Bulo, Aleksander Colovic, Peter Kontschieder.<br />"Seamless Scene Segmentation." CVPR (2019) (Extended Version). [[paper](https://arxiv.org/pdf/1905.01220.pdf)][[code](https://github.com/mapillary/seamseg)]
 
+* **TASCNet:** Jie Li, Allan Raventos, Arjun Bhargava, Takaaki Tagawa, Adrien Gaidon.<br />"Learning to Fuse Things and Stuff." CVPR (2019). [[paper](https://arxiv.org/pdf/1812.01192.pdf)]
+
+* **DANet:** Jun Fu, Jing Liu, Haijie Tian, Yong Li, Yongjun Bao, Zhiwei Fang, Hanqing Lu.<br />"Dual Attention Network for Scene Segmentation." CVPR (2019). [[paper](https://arxiv.org/abs/1809.02983.pdf)][[code](https://github.com/junfu1115/DANet)]
+
 ### ECCV2018
 * Qizhu Li, Anurag Arnab, Philip H.S. Torr.<br />"Weakly- and Semi-Supervised Panoptic Segmentation." ECCV (2018). [[paper](https://arxiv.org/pdf/1812.01192.pdf)] [[code](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)]
 
@@ -142,7 +146,6 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 * **PEN:** Yuan Hu, Yingtian Zou, Jiashi Feng.<br />"Panoptic Edge Detection." arXiv (2019). [[paper](https://arxiv.org/pdf/1906.00590.pdf)]
 
-* **TASCNet:** Jie Li, Allan Raventos, Arjun Bhargava, Takaaki Tagawa, Adrien Gaidon.<br />"Learning to Fuse Things and Stuff." arXiv (2018). [[paper](https://arxiv.org/pdf/1812.01192.pdf)]
 
 * Daan de Geus, Panagiotis Meletis, Gijs Dubbelman.<br />"Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network." arXiv (2018). [[paper](https://arxiv.org/pdf/1809.02110.pdf)]
 
