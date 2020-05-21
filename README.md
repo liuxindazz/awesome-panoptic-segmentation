@@ -98,6 +98,18 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 * **BGRNet:** Yangxin Wu, Gengwei Zhang, Yiming Gao, Xiajun Deng, Ke Gong, Xiaodan Liang, Liang Lin.<br />"Bidirectional Graph Reasoning Network for Panoptic Segmentation." CVPR (2020). [[paper](https://arxiv.org/pdf/2004.06272.pdf)]
 
+* **OCFusion:**  Justin Lazarow, Kwonjoon Lee, Kunyu Shi, Zhuowen Tu.<br />"Learning Instance Occlusion for Panoptic Segmentation." CVPR (2020). [[paper](https://arxiv.org/pdf/1906.05896.pdf)]
+
+* Rui Hou, Jie Li, Arjun Bhargava, Allan Raventos, Vitor Guizilini, Chao Fang, Jerome Lynch, Adrien Gaidon.<br />"Real-Time Panoptic Segmentation From Dense Detections." CVPR (2020). [[paper](https://arxiv.org/pdf/1912.01202.pdf)]
+
+* Haochen Wang, Ruotian Luo, Michael Maire, Greg Shakhnarovich.<br />"Pixel Consensus Voting for Panoptic Segmentation." CVPR (2020). [[paper](https://arxiv.org/pdf/2004.01849.pdf)]
+
+*  	Dahun Kim, Sanghyun Woo, Joon-Young Lee, In So Kweon.<br />"Video Panoptic Segmentation." CVPR (2020).
+
+* Bowen Cheng, Maxwell D. Collins, Yukun Zhu, Ting Liu, Thomas S. Huang, Hartwig Adam, Liang-Chieh Chen.<br />"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation" CVPR (2020). [[paper](https://arxiv.org/pdf/1911.10194.pdf)]
+
+* Qizhu Li, Xiaojuan Qi, Philip H.S. Torr.<br />"Unifying Training and Inference for Panoptic Segmentation" CVPR (2020). [[paper](https://arxiv.org/pdf/2001.04982.pdf)]
+
 ### ICCV2019
 * **AdaptIS:** Konstantin Sofiiuk, Olga Barinova, Anton Konushin.<br />"AdaptIS: Adaptive Instance Selection Network." ICCV (2019). [[paper](https://arxiv.org/pdf/1909.07829.pdf)]
 
